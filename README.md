@@ -19,7 +19,7 @@ Aplikasi Flutter untuk daily planner dengan autentikasi dan penyimpanan data men
 
 |          Email            |     Password     |
 |---------------------------|------------------|
-| iamdenisetiawan@gmail.com |     Rahasia98    |
+| 		   admin		 	|      admin 	   |
 
 ## Tested on
 - **API Level:** 34
